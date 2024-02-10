@@ -4,7 +4,10 @@
       {
         "id": "1",
         "adsMode": "1",
-        "inside_outside": "inside",
+        "show_openAd": "yes",
+        "show_interstitial": "yes",
+        "show_bannerUp": "yes",
+        "show_bannerDown": "yes",
         "adsTrigger": "yes",
         "updateVersion": "1",
         "_admob_app_id": "ca-app-pub-3101794718803105~3001507864",
