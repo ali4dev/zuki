@@ -3,6 +3,7 @@
     "MyAds": [
       {
         "id": "1",
+        "adsMode": "1",
         "inside_outside": "inside",
         "adsTrigger": "yes",
         "updateVersion": "1",
