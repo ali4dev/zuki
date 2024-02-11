@@ -3,10 +3,10 @@
     "MyAds": [
       {
         "id": "1",
-        "adsTrigger": "test",
-        "show_openAd": "yes",
+        "adsTrigger": "yes",
+        "show_openAd": "no",
         "show_interstitial": "yes",
-        "show_banner": "yes",
+        "show_banner": "no",
         "updateVersion": "1",
         "_admob_app_id": "ca-app-pub-3101794718803105~3001507864",
         "_admob_Open": "ca-app-pub-3101794718803105/2274162120",
