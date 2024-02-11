@@ -3,7 +3,7 @@
     "MyAds": [
       {
         "id": "1",
-        "adsTrigger": "yes",
+        "adsTrigger": "test",
         "show_openAd": "yes",
         "show_interstitial": "yes",
         "show_banner": "yes",
