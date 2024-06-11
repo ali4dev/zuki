@@ -4,7 +4,7 @@
       {
         "id": "1",
         "inside_outside": "inside",
-        "adsTrigger": "yes",
+        "adsTrigger": "no",
         "show_openAd": "no",
         "show_interstitial": "no",
         "show_banner": "yes",
